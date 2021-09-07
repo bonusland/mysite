@@ -1,1 +1,3 @@
 # mysite
+https://amsi.fail/
+
